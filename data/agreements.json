@@ -1,0 +1,52 @@
+[
+  {
+    "id": "PL-A",
+    "site": "砂桥一厂",
+    "group": "sand",
+    "meter": "M-A",
+    "circuits": [
+      "L1",
+      "L2"
+    ],
+    "start": "2027-02-01T18:00:00+08:00",
+    "end": "2027-02-01T23:00:00+08:00",
+    "max_kw": 90,
+    "notice": 20,
+    "min": 30,
+    "daily_kw_minutes": 9200,
+    "cents_per_kw_minute": 6
+  },
+  {
+    "id": "PL-B",
+    "site": "砂桥二厂",
+    "group": "sand",
+    "meter": "M-B",
+    "circuits": [
+      "L9",
+      "L4"
+    ],
+    "start": "2027-02-01T18:00:00+08:00",
+    "end": "2027-02-01T23:00:00+08:00",
+    "max_kw": 75,
+    "notice": 15,
+    "min": 25,
+    "daily_kw_minutes": 6900,
+    "cents_per_kw_minute": 8
+  },
+  {
+    "id": "PL-C",
+    "site": "竹亭食品",
+    "group": "food",
+    "meter": "M-C",
+    "circuits": [
+      "L3"
+    ],
+    "start": "2027-02-01T17:00:00+08:00",
+    "end": "2027-02-01T22:00:00+08:00",
+    "max_kw": 65,
+    "notice": 45,
+    "min": 60,
+    "daily_kw_minutes": 6000,
+    "cents_per_kw_minute": 5
+  }
+]

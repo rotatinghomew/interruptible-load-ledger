@@ -1,0 +1,15 @@
+[
+  {
+    "id": "HD-7",
+    "invitation": "DR-91",
+    "from_site": "PL-A",
+    "to_site": "PL-B",
+    "kw": 55,
+    "noticed": "2027-02-01T19:20:00+08:00",
+    "boundary": "2027-02-01T20:10:00+08:00",
+    "confirmed_by": [
+      "PL-A",
+      "PL-B"
+    ]
+  }
+]
